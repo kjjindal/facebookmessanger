@@ -1,0 +1,24 @@
+/* message div */
+.message{
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+}
+/* user message  */
+.message__user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+
+/* usercard box */
+.message__usercard{
+    background-color: #0b81ff !important;
+
+}
+/*  guest card box  */
+.message__guestcard{
+    background-color:#e9e9eb !important;
+}
+
+
